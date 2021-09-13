@@ -1,1 +1,10 @@
-# bearridge
+Bear Ridge Chalet Village
+1.	Introduction
+A digital welcome guide that stores all the content needed for potential guests. The welcome guide will serve as an advertisement to book the cabin through Airbnb, as well as an easy way to get in contact with the cabin owners for any questions.
+
+2.	Design and Implementation
+The design of my page includes a header with the cabin's name/logo on the left corner. there is a navigation bar under that, which includes links for "About the Home", "Arrival Info" "Activities" and "Contact" information. When you click on "About the Home", the page reveals an accordion that provides details about house. I embedded the Airbnb link to the "How to Book" tab, so guests can access that easily in the future. My initial design for this page was a simpler vertical accordion, but while searching online I found a code for the horizontal flex accordion that fit nicely with the site.
+Instead of having too many navigation links at the top as first intended, I compressed "Activities Guide" and "Food & Drink Guide" into "Activities" for a cleaner look. I also decided not to include a "Welcome" page, because what I created didn't look like I wanted. I wanted the welcome page to have tabs on the left side of the screen and when one was clicked, more detail would come up on the right side of the screen; but I couldn't figure it out.
+I used a stocky-top navigation bar so that users can jump to other pages whenever they need. On the contact page I included a form so users can send in any questions, if they don’t feel like calling or opening their email.
+3.	Conclusions
+I learned that creating a website takes work! I did learn a new way to create an animated accordion on my "About the Home" page which I enjoyed, and I believe is the best feature of the website. One shortcoming was that I think I should have made the site more like a book, to greater resemble a welcome guide. Something I would have done differently is make the information more organized on one page. I think I would want it so that the user can click on all titles on one half of the page that would enlarge in detail on the right side of the page.
